@@ -22,5 +22,15 @@
 }
 
 body {
+height: 100%; 
+width: 100%;
+background-color: #b2b2b2;
+background: url(timtheenchanter.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+
     margin: 0px 0px;
 }
