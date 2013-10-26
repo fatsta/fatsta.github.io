@@ -8,7 +8,7 @@
 }
 
 #topborder{
-	height: 80px;
+	height: 30px;
 	color:#FF0000;
 }
 
@@ -17,11 +17,13 @@
 	width:100%; 
 	height:40px;
 	margin: 0 auto 30px; 
-	padding: 0px 200px;
+	padding: 0px 0px;
 }
 
 #cheese {
-
+<iframe width="480" height="360"
+src="//www.youtube.com/embed/1SRxs5xYWuo">
+</iframe>
 }
 
 body {
