@@ -1,6 +1,13 @@
 .intro {
 	color: red;
-	font-size: 50px;
+	font-size: 200%;
 	font-style: italic;
-	font-family: helvetica;
+	font-family: helvetica, sans-serif;
+	margin: 3px;
+	padding-bottom: 5px;
+}
+
+#topborder{
+	height: 80px;
+	color:#FF00FF;
 }
