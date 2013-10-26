@@ -9,5 +9,18 @@
 
 #topborder{
 	height: 80px;
-	color:#FF00FF;
+	color:#FF0000;
+}
+
+#header {
+	background:#FF00FF;
+	width:100%; 
+	height:50px;
+	margin: 0 auto 30px; 
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+body {
+    margin: 0px 0px;
 }
